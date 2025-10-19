@@ -1,11 +1,11 @@
 # COVID-19 Country-Wise Data Analysis
-Project Overview
+**Project Overview**
 
 This project analyzes global COVID-19 data using Python in Anaconda Jupyter Notebook.
 It explores how the pandemic affected different countries by comparing confirmed, recovered, death, and active cases.
 The goal is to uncover key trends, correlations, and insights from the dataset.
 
-Objectives
+**Objectives**
 
 Identify countries most affected by COVID-19.
 
@@ -15,7 +15,7 @@ Explore the relationship between confirmed, recovered, and death cases.
 
 Visualize regional differences using WHO regions.
 
-Dataset
+**Dataset**
 
 File Name: country_wise_latest.csv
 Source: Kaggle - COVID-19 Dataset
@@ -34,13 +34,13 @@ Active
 
 WHO Region
 
-Tools & Libraries
+**Tools & Libraries**
 
 Anaconda Jupyter Notebook
 
 Python 3
 
-Libraries used:
+**Libraries used:**
 
 pandas
 
@@ -50,7 +50,7 @@ matplotlib
 
 seaborn
 
-Research Questions
+**Research Questions**
 
 Which countries have the highest number of confirmed cases?
 
@@ -64,7 +64,7 @@ Which WHO regions reported the most confirmed cases?
 
 What is the correlation between confirmed, recovered, and death cases?
 
-Analysis and Visualizations
+**Analysis and Visualizations**
 
 Top 10 countries by confirmed cases → Bar Chart
 
@@ -78,7 +78,7 @@ Confirmed cases by WHO Region → Bar Chart
 
 Correlation Heatmap → Seaborn Heatmap
 
-Key Insights
+**Key Insights**
 
 1️⃣ The USA, India, and Brazil had the highest confirmed cases.
 2️⃣ Death rates were higher in regions with weaker health infrastructure.
@@ -86,7 +86,7 @@ Key Insights
 4️⃣ WHO Regions like the Americas and Europe were most affected.
 5️⃣ Confirmed and recovered cases show a strong positive correlation.
 
-Conclusion
+**Conclusion**
 
 This analysis highlights the uneven global impact of COVID-19 and shows how data visualization can simplify complex health data.
 The project demonstrates practical use of Python, Pandas, Matplotlib, and Seaborn for real-world data analysis and storytelling.
